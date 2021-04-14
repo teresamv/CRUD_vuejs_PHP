@@ -18,7 +18,6 @@ $config = new Config([
 ]);
 These are all the configuration options and their default value between brackets:
 •	"address": Hostname (or filename) of the database server (localhost)
-•	"port": TCP port of the database server (defaults to driver default)
 •	"username": Username of the user connecting to the database (no default)
 •	"password": Password of the user connecting to the database (no default)
 •	"database": Database the connecting is made to (no default)
