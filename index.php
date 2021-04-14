@@ -231,16 +231,6 @@ var application = new Vue({
     });
    }
   },
- //  getList:function(id){
- //    alert(id);
- //    axios.post('action.php', {
- //     action:'getList',
- //     id:id
- //    }).then(function(response){
- //     application.fetchAllData();
- //     alert(response.data.message);
- //    });
- //  }
  },
  created:function(){
   this.fetchAllData();
