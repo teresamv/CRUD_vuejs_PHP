@@ -3,7 +3,7 @@ PHP-CRUD-VUE js-MYSQL
 Single file PHP,VUE js script that adds to a MySQL database.
 Requirements
 •	PHP 7.0 or higher with PDO drivers enabled for the following database system:
-o	MySQL 5.6  or higher for spatial features in MySQL
+o	MySQL 5.0  or higher for spatial features in MySQL
 Installation
 This is a single file application! Upload "index.php and action.php" in xampp/htdocs/create_folder and enjoy!
 Test the script by opening the following URL:
